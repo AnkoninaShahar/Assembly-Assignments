@@ -1,5 +1,17 @@
+INSTRUCTION TO CONFIGURE NEW ASSEMBLY PROJECT:
+
+1. Project >> Build Customizations >> SELECT masm(.targets, .props)
+
+2. Build >> Configuration Manager >> UNDER PLATFORM SELECT Win32
+
+3. Properties >> Linker >> General >> Additional Library Directories
+COPY AND PASTE:
 c:\Irvine;%(AdditionalLibraryDirectories)
 
+4. Properties >> Linker >> Input >> Additional Dependencies
+COPY AND PASTE:
 user32.lib;irvine32.lib;%(AdditionalDependencies)
 
+5. Properties >> Microsoft Macro Assembler >> General >> Include Paths
+COPY AND PAST:
 c:\Irvine
