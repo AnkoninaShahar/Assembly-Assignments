@@ -46,6 +46,12 @@ main proc
 	mov edi, LENGTHOF array_1
 	call SumArray
 	call DumpRegs
+
+	mov edx, OFFSET array_2
+	mov edi, LENGTHOF array_2
+	call SumArray
+	call DumpRegs
+
 	invoke ExitProcess,0
 main endp
 end main
