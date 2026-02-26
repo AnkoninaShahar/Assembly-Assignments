@@ -18,5 +18,11 @@
     <MASM Include="shift_array.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="reverse_string.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="reverse_endian.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
 </Project>

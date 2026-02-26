@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <MASM Include="bitwise_mult.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
     <MASM Include="sum_arrays.asm">
       <Filter>Source Files</Filter>
     </MASM>

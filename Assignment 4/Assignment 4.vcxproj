@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <MASM Include="reverse_endian.asm" />
+    <MASM Include="reverse_string.asm" />
     <MASM Include="shift_array.asm" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
