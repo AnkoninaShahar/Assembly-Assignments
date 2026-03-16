@@ -10,12 +10,12 @@ This repository contains a series of assignments completed for the CIS 21JA cour
 ## Featured Projects
 | Project Name | Description | Key Concepts |
 | :--- | :--- | :--- |
-| **Assignment 1** | Manual conversion functions for 16-bit Binary and 32-bit Hexadecimal strings. | Base Conversion |
-| **Assignment 2** | Implementation of Irvine32 library procedures for standardized console I/O. | I/O Practice |
-| **Assignment 3** | Register-based arithmetic calculating complex integer expressions. | EAX/EBX Management |
-| **Assignment 4** | Endianness reversal, string character mirroring, and array element rotation. | Indirect Addressing |
-| **Assignment 5** | Conditional array summation and bitwise multiplication using only shifts and adds. | Logic & Bit-Shifting |
-| **Assignment 6** | Coordinate-based UI positioning, random string generation, and color matrices. | Nested Loops & UI |
+| **Assignment&nbsp;1** | Manual conversion functions for 16-bit Binary and 32-bit Hexadecimal strings. | Base Conversion |
+| **Assignment&nbsp;2** | Implementation of Irvine32 library procedures for standardized console I/O. | I/O Practice |
+| **Assignment&nbsp;3** | Register-based arithmetic calculating complex integer expressions. | EAX/EBX Management |
+| **Assignment&nbsp;4** | Endianness reversal, string character mirroring, and array element rotation. | Indirect Addressing |
+| **Assignment&nbsp;5** | Conditional array summation and bitwise multiplication using only shifts and adds. | Logic & Bit-Shifting |
+| **Assignment&nbsp;6** | Coordinate-based UI positioning, random string generation, and color matrices. | Nested Loops & UI |
 
 ---
 ## Tech Stack
