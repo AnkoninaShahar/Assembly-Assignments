@@ -12,6 +12,8 @@ c:\Irvine;%(AdditionalLibraryDirectories)
 COPY AND PASTE:
 user32.lib;irvine32.lib;%(AdditionalDependencies)
 
-5. Properties >> Microsoft Macro Assembler >> General >> Include Paths
+5. Create .asm file 
+
+6. Properties >> Microsoft Macro Assembler >> General >> Include Paths
 COPY AND PAST:
 c:\Irvine
