@@ -1,4 +1,4 @@
-# Assembly Assignments (CIS 21JA)
+# Assembly Assignments
 **AUTHOR . . . . . . .** Shahar Ankonina                                                                         
 **DESCRIPTION. . .** A collection of x86 assembly language programs focused on low-level logic and architecture
 
